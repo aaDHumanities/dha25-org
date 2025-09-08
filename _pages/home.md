@@ -11,7 +11,7 @@ header:
     - label: "Latest news"
       url: "/posts/"
     - label: "Register"
-      url: "https://payments.anu.edu.au/general-events/booking?UDS_ACTION_DATA=ZFEgCUA2WgROWScKQEJDBV5VQg1PLE0bWkRBKQ43I0MOQVlW)"
+      url: "https://payments.anu.edu.au/general-events/booking?UDS_ACTION_DATA=ZFEgCUA2WgROWScKQEJDBV5VQg1PLE0bWkRBKQ43I0MOQVlW"
     - label: "Programme"
       url: https://www.conftool.org/dha2025/sessions.php
 layout: splash
