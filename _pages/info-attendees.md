@@ -14,7 +14,7 @@ On this page, we provide useful information for attendees about accommodation, t
 
 We are pleased to offer attendees discounted rates at the following hotels. Please use the links below to access the discounts:
 
-- **Novotel**, 65 Northbourne Ave, 2600 Canberra, Australia: booking discount link (TBC)
+- **Novotel**, 65 Northbourne Ave, 2600 Canberra, Australia: [booking discount link](https://url.au.m.mimecastprotect.com/s/dVJ9CwVLG5hvqJpxRIVfotJ9ZZD?domain=accorevents.com)
 - **Peppers Gallery Hotel**, 15 Edinburgh Ave, Acton ACT 2601: [booking discount link](https://all.accor.com/lien_externe.svlt?goto=rech_geo_avantage&nom_ville=B3T5&sourceid=AR_Promo_code&currency=AUD&merchantid=par-accorAU&code_avantage=DHA2025&code_langue=gb&sourceid=AR_Promo_code&jour_arrivee=2&mois_arrivee=12&annee_arrivee=2025&nb_nuit=2)
 - **Mantra on Northborne**, 84 Northbourne Ave, Braddon ACT 2612: [booking discount link](https://all.accor.com/lien_externe.svlt?goto=rech_geo_avantage&nom_ville=B3P2&sourceid=AR_Promo_code&currency=AUD&merchantid=par-accorAU&code_avantage=DHA2025&code_langue=gb&sourceid=AR_Promo_code&jour_arrivee=2&mois_arrivee=12&annee_arrivee=2025&nb_nuit=2)
 - **Breakfree Capital Tower**, 2 Marcus Clarke St, Canberra ACT 2601: [booking discount link](https://all.accor.com/lien_externe.svlt?goto=rech_geo_avantage&nom_ville=B3I4&sourceid=AR_Promo_code&currency=AUD&merchantid=par-accorAU&code_avantage=DHA2025&code_langue=gb&sourceid=AR_Promo_code&jour_arrivee=2&mois_arrivee=12&annee_arrivee=2025&nb_nuit=2)
