@@ -10,11 +10,19 @@ header:
   actions:
     - label: "Latest news"
       url: "/posts/"
-    - label: "Submit (via Conftool)"
-      url: "https://www.conftool.org/dha2025/"
+    - label: "Register"
+      url: "https://payments.anu.edu.au/general-events/booking?UDS_ACTION_DATA=ZFEgCUA2WgROWScKQEJDBV5VQg1PLE0bWkRBKQ43I0MOQVlW)"
+    - label: "Programme"
+      url: https://www.conftool.org/dha2025/sessions.php
 layout: splash
 classes: wide
 ---
+
+# Registration Open!
+
+Registration is now open for DHA25. Please register [using the payment site at the Australian National University](https://payments.anu.edu.au/general-events/booking?UDS_ACTION_DATA=ZFEgCUA2WgROWScKQEJDBV5VQg1PLE0bWkRBKQ43I0MOQVlW). Discounts apply for members of aaDH and other member organisations of the Alliance of Digital Humanities Organisations. Please do consider [joining your local DH association when you register](https://payments.anu.edu.au/general-events/booking?UDS_ACTION_DATA=ZFEgCUA2WgROWScKQEJDBV5VQg1PLE0bWkRBKQ43I0MOQVlW).
+
+The draft programme can be viewed via the [Conftool site](https://www.conftool.org/dha2025/sessions.php). Please note that the programme is subject to change, though we will try to keep changes to a minimum.
 
 # Call for Papers
 
@@ -24,15 +32,11 @@ Archipelagos also serve our conference as a metaphor to spark dialogue about new
 
 Archipelagos can also signify the coming together of disciplines, ideas and methodologies in ways that honour local histories, languages, and cosmologies while advancing sustainable, community-informed projects in the digital arena. From ‘relation-oriented AI’ to ‘embodied knowledge archives,’ our conference theme foregrounds situatedness, proximity, and place as indispensable foci for future DH research and practice (Brown, Whaanga & Lewis 2023; Alliata et al. 2024).
 
-**Abstracts due Friday 6th June 11.55pm (AoE)**
-
-[How to submit an abstract](/submissions)
-
 # Keynote Speakers
 
->**Jill Walker Rettberg** (Professor of Digital Culture & Co-Director of the Centre for Digital Narrative, University of Bergen)
+>[**Jill Walker Rettberg**]({% link _pages/info-keynotes.md %}) (Professor of Digital Culture & Co-Director of the Centre for Digital Narrative, University of Bergen)
 
->**Kathryn Gledhill-Tucker** (Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, Australia)
+>[**Kathryn Gledhill-Tucker**]({% link _pages/info-keynotes.md %}) (Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, Australia)
 
 # Details
 
@@ -78,5 +82,15 @@ Our conference also warmly welcome colleagues from the wider Galleries, Librarie
 * Geography and fieldwork in DH
 * Environmental Digital Humanities 
 * Cultural flows, diasporic communities, trans-oceanic exchange
+
+## References
+
+Alliata, Giacomo, Yumeng Hou and Sarah Kenderdine. ‘Augmenting Access to Embodied Archives: A Computational Framework.’ _Digital Humanities Quarterly_ 18.3 (2024): 1-20.
+
+Brown, Michelle Lee, Hēmi Whaanga and Jason Edward Lewis. ‘Relation-Oriented AI: Why Indigenous Protocols Matter for the Digital Humanities.’ _Debates in the Digital Humanities._ Eds. Matthew K. Gold and Lauren F. Klein. University of Minnesota Press, 2023.
+
+Starosielski, Nicole. _The Undersea Network._ Duke: Duke University Press, 2015.
+
+Tucker, Johanna. ‘Facing the Challenge of Digital Sustainability as Humanities Researchers.’ _Journal of the British Academy_ 10 (2022): 93-120. 
 
 _We acknowledge the Traditional Owners and Custodians of the lands and waters on which we live, work and play._

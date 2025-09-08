@@ -1,9 +1,13 @@
 ---
 title: "Submit an abstract"
-permalink: /submissions/
+permalink: submissions/
 author: aaDH
 sidebar:
-  nav: "submissions-nav"
+  nav: "info-nav"
+---
+
+Submissions to DHA25 and CAPOS 7 are closed. The below is included for your reference.
+
 ---
 
 Please submit abstracts of **250 words** responding to the conference topics or other scholarly or creative questions raised by our conference theme.
