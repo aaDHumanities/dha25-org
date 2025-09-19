@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to our Bursary Recipients!"
+title: "DHA2025: Congratulations to our Bursary Recipients!"
 last_modified_at: 2025-09-19
 categories:
   - Post
