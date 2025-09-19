@@ -22,7 +22,7 @@ Dylan Chng is a PhD candidate at the Australian National University developing a
   
 **[Ashley Grace Dennis-Henderson](https://www.linkedin.com/in/ashley-dennis-henderson/) University of Adelaide**
 
-Ashley is a PhD candidate in Applied Mathematics and Statistics and a Lecturer in Mathematics at the University of Adelaide. Her PhD project focuses on how we can analyse Australian World War I diaries and letters using mathematical and computational techniques. Her research interests include natural language processing, optimisation, network analysis, digital humanities, and historical textual analysis.
+Ashley Dennis-Henderson is a PhD candidate in Applied Mathematics and Statistics and a Lecturer in Mathematics at the University of Adelaide. Her PhD project focuses on how we can analyse Australian World War I diaries and letters using mathematical and computational techniques. Her research interests include natural language processing, optimisation, network analysis, digital humanities, and historical textual analysis.
 
 
 **[Mohamed W Fareed](https://www.linkedin.com/in/mohamed-w-fareed-msc-290627179/) University of Adelaide**
