@@ -10,7 +10,7 @@ author: AS
 
 Congratulations to our bursary recipients who will be joining us at DHA2025! 
 
-**[Julianne Bell](https://www.linkedin.com/in/julianne-bell-4b2159108/?originalSubdomain=au)  | Australian National University** 
+**[Julianne Bell](https://www.linkedin.com/in/julianne-bell-4b2159108/?originalSubdomain=au)  | Australian National University**
 
 Julianne Bell is a PhD candidate at the Australian National University with an interest in applying data driven, digital research techniques to humanities and social sciences (HASS) projects. Her PhD project developed the first comprehensive digital publication of plastic focused collection survey results coordinated from seven national museums and galleries.
 
@@ -57,7 +57,7 @@ Tiako Djomatchoua Murielle Sandra is a doctoral candidate at Princeton Universit
 
 Karen M Thompson is a Senior Research Data Specialist at the Melbourne Data Analytics Platform (MDAP) at the University of Melbourne. She has a passion for data organisation, communication, and working at the intersection of data and cultural collections. 
   
-**[Katerina Undo](https://www.katerina-undo.net/)) | KU Leuven and the University of Melbourne**
+**[Katerina Undo](https://www.katerina-undo.net/) | KU Leuven and the University of Melbourne**
 
 Katerina Undo is a PhD Candidate (joint scholarship) at KU Leuven and the University of Melbourne. Her current PhD research stages the body as a site of transmutation - both container and agent of change. It deepens this inquiry by proposing an experiential method of human-AI co-creation in response to (un)livable climates.
 
