@@ -1,6 +1,6 @@
 ---
 title: "DHA2025: Registration Open"
-last_modified_at: 2025-05-08
+last_modified_at: 2025-09-08
 categories:
   - Post
 tags:
