@@ -22,6 +22,20 @@ _Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, 
 
 [Kathryn Gledhill-Tucker](https://kgt.dev/) is a Nyungar anti-disciplinary artist and creative technologist living on Whadjuk Noongar boodjar. Their work explores custodial approaches to data management, interrogating systems of surveillance, and using creative technology to explore coding as a liberatory practice. Their short fiction can be found in various anthologies, including the blak speculative fiction anthology [_This All Come Back Now_](https://www.uqp.com.au/books/this-all-come-back-now) (UQP) and [_New Australian Fiction 2024_](https://www.killyourdarlings.com.au/shop/new-australian-fiction-2024/) (Kill Your Darlings). The short story 'The Station' was shortlisted for an Aurealis award for Best Science Fiction Short Story.
 
+### Rose Barrowcliffe
+*Butchulla; post-doctoral research fellow, Macquarie University*
+
+<img src="/assets/images/rose-barrowcliffe.jpeg" width="600">
+
+[Rose Barrowcliffe](https://researchers.mq.edu.au/en/persons/rose-barrowcliffe) is Butchulla and a post-doctoral research fellow at Macquarie University. Rose’s research examines the representation of Aboriginal and Torres Strait Islander people in archives and her postdoc specifically focusses on embedding Indigenous perspectives in metadata to support discoverability and access of records for Indigenous peoples. In 2021, Rose was appointed the inaugural First Nations Archives Advisor to the Queensland State Archives (QSA). This appointment coincided with the Queensland Government’s Path to Treaty. Rose’s work is helping to guide QSA to promote the use of records for Indigenous self-determination to support the Treaty process and beyond. In addition to this, Rose is an active member of the [Indigenous Archives Collective](https://indigenousarchives.net/) (IAC).
+
+### Jenny Ostini
+*Director, Trove Community Services, National Library of Australia*
+
+<img src="/assets/images/jenny-ostini.jpg" height="238" width="238">
+
+Dr Jenny Ostini is a qualitative social scientist, with extensive experience in academia and government. She currently directs Community Services at [Trove](https://trove.nla.gov.au), the National Library of Australia's flagship public database.
+
 ## CAPOS 
 
 ### **Michael E. Sinatra**
