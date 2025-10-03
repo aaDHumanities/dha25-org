@@ -38,9 +38,13 @@ Archipelagos can also signify the coming together of disciplines, ideas and meth
 
 >[**Kathryn Gledhill-Tucker**]({% link _pages/info-keynotes.md %}) (Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, Australia)
 
+# Plenary Panelists
+
 >[**Rose Barrowcliffe**]({% link _pages/info-keynotes.md %}) (Butchulla, and post-doctoral research fellow at Macquarie University)
 
 >[**Jenny Ostini**]({% link _pages/info-keynotes.md %}) (Director, Trove Community Services, National Library of Australia)
+
+>[**Finn Morgan**]({% link _pages/info-keynotes.md %}) (Lecturer, Publishing and Communication, University of Melbourne)
 
 # Details
 

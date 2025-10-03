@@ -6,7 +6,7 @@ sidebar:
   nav: "info-nav"
 ---
 
-## DHA
+## DHA: Keynote Addresses
 
 ### Jill Walker Rettberg
 _Professor of Digital Culture & Co-Director of the Centre for Digital Narrative, University of Bergen_
@@ -22,6 +22,8 @@ _Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, 
 
 [Kathryn Gledhill-Tucker](https://kgt.dev/) is a Nyungar anti-disciplinary artist and creative technologist living on Whadjuk Noongar boodjar. Their work explores custodial approaches to data management, interrogating systems of surveillance, and using creative technology to explore coding as a liberatory practice. Their short fiction can be found in various anthologies, including the blak speculative fiction anthology [_This All Come Back Now_](https://www.uqp.com.au/books/this-all-come-back-now) (UQP) and [_New Australian Fiction 2024_](https://www.killyourdarlings.com.au/shop/new-australian-fiction-2024/) (Kill Your Darlings). The short story 'The Station' was shortlisted for an Aurealis award for Best Science Fiction Short Story.
 
+## DHA: Plenary Panelists
+
 ### Rose Barrowcliffe
 *Butchulla; post-doctoral research fellow, Macquarie University*
 
@@ -35,6 +37,13 @@ _Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, 
 <img src="/assets/images/jenny-ostini.jpg" height="200" width="200">
 
 Dr Jenny Ostini is a qualitative social scientist, with extensive experience in academia and government. She currently directs Community Services at [Trove](https://trove.nla.gov.au), the National Library of Australia's flagship public database.
+
+### Fiannuala Morgan
+*Lecturer in Publishing and Communication, University of Melbourne*
+
+<img src="/assets/images/finn-morgan.jpeg" height="180" width="180">
+
+[Fiannuala Morgan](https://finnoscarmorgan.github.io/) is a Lecturer in Publishing and Communications in the School of Culture and Communications and comes from a background in the information services industry where she been employed as a librarian and archivist for over a decade. Her research explores the possibilities that artificial intelligence yields for the analysis of digitalised cultural collections with a particular interest in the Australian colonial press. 
 
 ## CAPOS 
 
