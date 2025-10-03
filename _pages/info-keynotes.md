@@ -32,7 +32,7 @@ _Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, 
 ### Jenny Ostini
 *Director, Trove Community Services, National Library of Australia*
 
-<img src="/assets/images/jenny-ostini.jpg" height="238" width="238">
+<img src="/assets/images/jenny-ostini.jpg" height="200" width="200">
 
 Dr Jenny Ostini is a qualitative social scientist, with extensive experience in academia and government. She currently directs Community Services at [Trove](https://trove.nla.gov.au), the National Library of Australia's flagship public database.
 
