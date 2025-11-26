@@ -18,9 +18,11 @@ layout: splash
 classes: wide
 ---
 
-# Registration Open!
+# Registration Closed
 
-Registration is now open for DHA25. Please register [using the payment site at the Australian National University](https://payments.anu.edu.au/general-events/booking?UDS_ACTION_DATA=ZFEgCUA2WgROWScKQEJDBV5VQg1PLE0bWkRBKQ43I0MOQVlW). Discounts apply for members of aaDH and other member organisations of the Alliance of Digital Humanities Organisations. Please do consider [joining your local DH association when you register](https://aa-dh.org/join/).
+Thank you to everyone who registered for DHA2025! Registrations have now closed.
+
+If you have any questions, or urgent enquiries, please get in touch with us at dha2025conference@gmail.com
 
 The draft programme can be viewed via the [Conftool site](https://www.conftool.org/dha2025/sessions.php). Please note that the programme is subject to change, though we will try to keep changes to a minimum.
 
