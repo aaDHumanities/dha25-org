@@ -1,8 +1,6 @@
 main:
   - title: "News"
     url: /posts/
-  - title: "Registration"
-    url: https://payments.anu.edu.au/general-events/booking?UDS_ACTION_DATA=ZFEgCUA2WgROWScKQEJDBV5VQg1PLE0bWkRBKQ43I0MOQVlW
   - title: "Programme"
     url: https://www.conftool.org/dha2025/sessions.php
   - title: "Conference info"
