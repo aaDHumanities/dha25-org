@@ -8,12 +8,12 @@ header:
   overlay_filter: 0.25 # same as adding an opacity of 0.25 to a black background
   caption: "'Digital Archipelagos' by [Britt Amell](https://www.brittanyamell.ca/)"
   actions:
-    - label: "Latest news"
+    - label: "News"
       url: "/posts/"
-    - label: "Register"
-      url: "https://payments.anu.edu.au/general-events/booking?UDS_ACTION_DATA=ZFEgCUA2WgROWScKQEJDBV5VQg1PLE0bWkRBKQ43I0MOQVlW"
     - label: "Programme"
       url: https://www.conftool.org/dha2025/sessions.php
+    - label: "Conference info"
+      url: /info/attendees
 layout: splash
 classes: wide
 ---
@@ -24,7 +24,7 @@ Thank you to everyone who registered for DHA2025! Registrations have now closed.
 
 If you have any questions, or urgent enquiries, please get in touch with us at dha2025conference@gmail.com
 
-The draft programme can be viewed via the [Conftool site](https://www.conftool.org/dha2025/sessions.php). Please note that the programme is subject to change, though we will try to keep changes to a minimum.
+You can [view the programme online](https://www.conftool.org/dha2025/sessions.php), or [download it as a pdf](/assets/documents/DHA%20programme_27_Nov_2025.pdf).
 
 # Call for Papers
 
