@@ -31,12 +31,12 @@ _Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, 
 
 [Rose Barrowcliffe](https://researchers.mq.edu.au/en/persons/rose-barrowcliffe) is Butchulla and a post-doctoral research fellow at Macquarie University. Rose’s research examines the representation of Aboriginal and Torres Strait Islander people in archives and her postdoc specifically focusses on embedding Indigenous perspectives in metadata to support discoverability and access of records for Indigenous peoples. In 2021, Rose was appointed the inaugural First Nations Archives Advisor to the Queensland State Archives (QSA). This appointment coincided with the Queensland Government’s Path to Treaty. Rose’s work is helping to guide QSA to promote the use of records for Indigenous self-determination to support the Treaty process and beyond. In addition to this, Rose is an active member of the [Indigenous Archives Collective](https://indigenousarchives.net/) (IAC).
 
-### Jenny Ostini
-*Director, Trove Community Services, National Library of Australia*
+### Alison Dellit
+*Assistant Director General, National Collections Access, National Library of Australia*
 
-<img src="/assets/images/jenny-ostini.jpg" height="200" width="200">
+<img src="/assets/images/alison-dellit.jpeg" height="200" width="200">
 
-Dr Jenny Ostini is a qualitative social scientist, with extensive experience in academia and government. She currently directs Community Services at [Trove](https://trove.nla.gov.au), the National Library of Australia's flagship public database.
+Alison Dellit is a senior executive at the National Library of Australia, where she is responsible for [Trove](https://trove.nla.gov.au), the library's digitisation program, and services to Australian libraries.
 
 ### Fiannuala Morgan
 *Lecturer in Publishing and Communication, University of Melbourne*
