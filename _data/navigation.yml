@@ -32,6 +32,8 @@ info-nav:
       children:
         - title: "Attendee Information"
           url: /info/attendees
+        - title: "Code of Conduct"
+          url: /info/code-of-conduct
         - title: "Keynote Speakers"
           url: /info/keynotes/
         - title: "Organising Committee"
