@@ -6,7 +6,7 @@ sidebar:
   nav: "info-nav"
 ---
 
-Ngambri/Canberra is a beautiful and compact city, and the Australian National University is centrally located, on the northern shore of Lake Burley Griffin. Whether it is your first visit, or a repeat, we hope you enjoy your stay in Australia's Bush Capital.
+Canberra/Ngambri is a beautiful and compact city, and the Australian National University is centrally located, on the northern shore of Lake Burley Griffin. Whether it is your first visit, or a repeat, we hope you enjoy your stay in Australia's Bush Capital.
 
 On this page, we provide useful information for attendees about accommodation, travel and other amenities.
 
